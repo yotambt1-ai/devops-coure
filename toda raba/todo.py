@@ -4,4 +4,4 @@ def add_task(task):
 
 def list_tasks():
     with open("tasks.txt", "r") as f:
-        return f.readlines()
+        return f.readlines() ff
